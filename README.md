@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img src="/name.svg" alt="Sharmin Hossain" />
+</h1>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=sharminhossainbd.sharminhossainbd&color=00cf00)
 <!--
