@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 [<img src="/Email.png" height="40em" align="center" alt="Email Sharmin on This" title="sharminhossain3007@gmail.com"/>](mailto:mailid@mail.com)
-[<img src="/linkedin.png" height="40em" align="center" alt="Follow Sharmin on LinkedIn" title="Follow Sharmin on LinkedIn"/>](https://www.linkedin.com/in/sharminhossain01/)
+[<img src="/Linked In.png" height="40em" align="center" alt="Follow Sharmin on LinkedIn" title="Follow Sharmin on LinkedIn"/>](https://www.linkedin.com/in/sharminhossain01/)
 [<img src="/medium.png" height="40em" align="center" alt="Follow Sharmin on Medium" title="Follow Sharmin on Medium"/>](https://medium.com/@sharminhossain01)
 
 
