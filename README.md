@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 💻 Over 5 years of professional experience as a data analyst in Bangladesh.
 - 🎋 Passionate about indoor plants, transformed the living room into a mini indoor forest.
 - 🏆 Consider myself proficient in SQL and Microsoft Excel. 
-- 🌐 You can access all my open-source projects here 𝚘𝚗 [𝙶𝚒𝚝𝙷𝚞𝚋](https://github.com/sharminhossainbd?tab=repositories)
+- 🌐 You can access all my open-source projects here 𝚘𝚗 [GitHub](https://github.com/sharminhossainbd?tab=repositories)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 I'm currently learning GitHub and Python.
