@@ -56,6 +56,9 @@ Here are some ideas to get you started:
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 🚀 Published release [My Portfolio Website](https://sharminhossainbd.github.io/) 
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Sharmin on LinkedIn" title="Follow Sharmin on LinkedIn"/>](https://www.linkedin.com/in/sharminhossain01/)
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+[<img src="/Email.png" height="40em" align="center" alt="Email Sharmin on This" title="sharminhossain3007@gmail.com"/>](mailto:mailid@mail.com)
+[<img src="/linkedin.png" height="40em" align="center" alt="Follow Sharmin on LinkedIn" title="Follow Sharmin on LinkedIn"/>](https://www.linkedin.com/in/sharminhossain01/)
+[<img src="/medium.png" height="40em" align="center" alt="Follow Sharmin on Medium" title="Follow Sharmin on Medium"/>](https://medium.com/@sharminhossain01)
+
 
