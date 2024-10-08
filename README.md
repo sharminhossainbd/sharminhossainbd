@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Sharmin(786|Hossain)|https://sharminhossainbd.github.io)" title="👋 Hi there! I'm (Sharmin(786|Hossain)|[https://sharminhossainbd.github.io](https://sharminhossainbd.github.io))"/>]([https://raymond.li](https://sharminhossainbd.github.io)/)
+
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=sharminhossainbd.sharminhossainbd&color=00cf00)
 <!--
