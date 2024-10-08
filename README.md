@@ -45,15 +45,17 @@ Here are some ideas to get you started:
 - 🎓 Graduated from North Dakota State University in Aug 2024, earning a PhD in Statistics.
 - 💻 Over 5 years of professional experience as a data analyst in Bangladesh.
 - 🎋 Passionate about indoor plants, transformed the living room into a mini indoor forest.
-- 🏆 Consider myself proficient in SQL and Microsoft Excel.
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [𝙶𝚒𝚝𝙷𝚞𝚋](https://github.com/sharminhossainbd?tab=repositories)
+- 🏆 Consider myself proficient in SQL and Microsoft Excel. 
+- 🌐 You can access all my open-source projects here 𝚘𝚗 [𝙶𝚒𝚝𝙷𝚞𝚋](https://github.com/sharminhossainbd?tab=repositories)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 learning GitHub and Python.
+- 🔨 I'm currently learning GitHub and Python.
+- 🔨 Working on my portfolio website. 
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 🚀 Published release [My Portfolio Website](https://sharminhossainbd.github.io/) 
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Sharmin on LinkedIn" title="Follow Sharmin on LinkedIn"/>](https://www.linkedin.com/in/sharminhossain01/)
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Sharmin on LinkedIn" title="Follow Sharmin on LinkedIn"/>](https://www.linkedin.com/in/sharminhossain01/)
 
