@@ -16,7 +16,7 @@
         .snowflake {
           color: #fff;
           font-size: 1em;
-          font-family: Arial;
+          font-family: Calibri;
           text-shadow: 0 0 1px #000;
         }
 				h1 {
@@ -42,7 +42,7 @@
 				  background-size: 200%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
-				  -webkit-text-fill-color: transparent;
+				  -webkit-text-fill-: transparent;
 				  -webkit-animation: gradientText 3s ease infinite;
 				  animation: gradientText 3s ease infinite;
 				}
