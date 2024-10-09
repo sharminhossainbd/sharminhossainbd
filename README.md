@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🌐 You can access all my open-source projects here 𝚘𝚗 [GitHub](https://github.com/sharminhossainbd?tab=repositories)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 I'm currently learning GitHub and Python.
+- 🔨 Currently learning GitHub and Python.
 - 🔨 Working on my portfolio website. 
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
 
